@@ -12,7 +12,7 @@ from skimage.filters import threshold_local
 #    3.jpeg - https://drive.google.com/file/d/1Kk08KMdduy4_pVIxVQxNbioIqGDVIgDl/view?usp=sharing
 #    4.png  - https://drive.google.com/file/d/1vlF1oE8g1RqKqvZsjPj5o_N0TTxo5pE1/view?usp=sharing
 
-# image = cv2.imread('1.jpeg')
+# image = cv2.imread('imgages/1.jpeg')
 
 
 image = io.imread("https://rest.kb.iu.edu/image/a174f.jpg")
